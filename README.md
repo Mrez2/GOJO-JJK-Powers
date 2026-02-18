@@ -88,4 +88,4 @@ Use a local server for best results.
 
 Built for creative experimentation, anime-style visuals, and real-time interaction.
 
-© 2026 Night Rezk – Expand Your Domain.
+© 2026 MRezk – Expand Your Domain.
