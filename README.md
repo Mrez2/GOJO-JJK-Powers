@@ -16,7 +16,7 @@ All rendered with 20,000 morphing particles and bloom post-processing effects.
 
 ##  Clone This Repository
 
-git clone https://github.com/NightRezk/jjk-cursed-technique.git
+git clone https://github.com/Mrez2/jjk-cursed-technique.git
 
 cd jjk-cursed-technique
 
